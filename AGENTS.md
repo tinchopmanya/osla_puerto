@@ -1,3 +1,11 @@
+---
+status: legacy_do_not_use_as_truth
+legacy_marked_at: 2026-05-12
+supersedes: C:\dev\Investigacion_Osla_consolidada\OK\modulos\osla_puerto\product.md
+reason: OSLA canonical documentation moved to consolidated OK tree after V3/saneamiento audit.
+do_not_use_for: product_truth, roadmap_truth, implementation_scope, claims, data_rights
+---
+
 # AGENTS.md — OslaPuerto
 
 ## Identidad del proyecto

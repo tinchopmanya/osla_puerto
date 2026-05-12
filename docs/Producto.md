@@ -1,3 +1,11 @@
+---
+status: legacy_do_not_use_as_truth
+legacy_marked_at: 2026-05-12
+supersedes: C:\dev\Investigacion_Osla_consolidada\OK\modulos\osla_puerto\product.md
+reason: OSLA canonical documentation moved to consolidated OK tree after V3/saneamiento audit.
+do_not_use_for: product_truth, roadmap_truth, implementation_scope, claims, data_rights
+---
+
 
 ### Críticas Ola 004-019
 - **CRÍTICO:** No existe feed AIS global, real-time, gratis y jurídicamente limpio (Ola 004). Marine Cadastre es solo costero/USA. AISHub es contributor-based, no open data. Global Fishing Watch tiene condiciones no comerciales. Si producto exige monitoreo global continuo, AIS cae del lado comercial.
